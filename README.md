@@ -13,10 +13,10 @@ I'm a passionate Full-Stack Software Engineer with experience in building reliab
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
-<!--[![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)-->
 [![Object-Oriented Programming (OOP)](https://img.shields.io/badge/OOP-00599C?logo=java&logoColor=white)](https://en.wikipedia.org/wiki/Object-oriented_programming)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![Database Design](https://img.shields.io/badge/Database_Design-336791?logo=databricks&logoColor=white)](https://en.wikipedia.org/wiki/Database_design)
+<!--[![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)-->
 
 ---
 
