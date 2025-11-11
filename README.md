@@ -66,7 +66,7 @@ I'm a passionate Full-Stack Software Engineer with experience in building reliab
   - [Asteroid Dodgers](https://github.com/corvert/web-game-Asteroid-Dodgers.git) <i>(JavaScript, Node.js)</i>
 
 - <b>DevOps</b>
-  - [Server Sorcery 101 🧙‍♂️](https://github.com/corvert/Server-Sorcery.git)  <i>(Vagrant, VirtualBox)</i>
+  - [Server Sorcery 101](https://github.com/corvert/Server-Sorcery.git)  <i>(Vagrant, VirtualBox)</i>
   
 
 
