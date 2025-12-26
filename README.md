@@ -62,7 +62,7 @@ I'm a passionate Full-Stack Software Engineer with experience in building reliab
   - [Info Screen](https://github.com/corvert/info-screens.git) <i>(Node.js, Socket.IO, React)</i>
   - [Match me ](https://github.com/corvert/match-me.git) <i>(Java, JWT, PostgreSQL, React, Tailwind CSS, WebSocket)</i>
 
-- <b>Front End App</b>
+- <b>Frontend App</b>
   - [Asteroid Dodgers](https://github.com/corvert/web-game-Asteroid-Dodgers.git) <i>(JavaScript, Node.js)</i>
 
 - <b>DevOps</b>
