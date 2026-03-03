@@ -67,7 +67,8 @@ I'm a passionate Full-Stack Software Engineer with experience in building reliab
 
 - <b>DevOps</b>
   - [Server Sorcery 101](https://github.com/corvert/Server-Sorcery.git)  <i>(Vagrant, VirtualBox)</i>
-  
+
+<!--
 <table><tbody><tr border="none"><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=corvert&theme=light&show_icons=true&count_private=true">
 
@@ -75,7 +76,7 @@ I'm a passionate Full-Stack Software Engineer with experience in building reliab
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=corvert&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
 
-<!--
+
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
