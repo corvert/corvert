@@ -68,7 +68,7 @@ I'm a passionate Full-Stack Software Engineer with experience in building reliab
 - <b>DevOps</b>
   - [Server Sorcery 101](https://github.com/corvert/Server-Sorcery.git)  <i>(Vagrant, VirtualBox)</i>
   
-
+[![Orvet's GitHub stats](https://github-readme-stats.vercel.app/api?username=corvert)](https://github.com/corvert/github-readme-stats)
 
 
 <!--
